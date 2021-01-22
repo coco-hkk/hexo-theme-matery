@@ -62,8 +62,10 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 网站测试
-  text: 网站测试中……
+  title: 信念
+  text: "个人的寿命是有限的，人类的命运是不确定的。
+         智慧生命洒遍了整个宇宙，我却只能呆在某个角落里玩泥巴。
+         欲穷千里目，更上一层楼！！！"
 
 # 是否在首页显示音乐.
 music:
